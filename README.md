@@ -15,7 +15,7 @@ Este repositorio contiene el código, análisis y documentación de mi Trabajo d
 El directorio `src/` contiene:
 - Implementación del método MultiSWAG y redes neuronales bayesianas.
 - Comparación de resultados obtenidos con redes tradicionales y otras metodologías bayesianas.
-- Un notebook (`notebook.ipynb`) con el análisis y las predicciones de series financieras específicas (por ejemplo, AMZN, GOOGL y MSFT).
+- Un script con el análisis y las predicciones de series financieras específicas (por ejemplo, AMZN, GOOGL y MSFT).
 
 ### 2. Documentación
 En el archivo `TFG_Matemáticas.pdf`, se incluye el informe completo, que abarca:
