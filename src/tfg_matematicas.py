@@ -19,7 +19,7 @@ from pathlib import Path
 
 
 
-def get_stock_data(symbol: str = 'AAPL', start_date: str = '2020-01-01', end_date: str = '2024-01-01') -> pd.DataFrame:
+def get_stock_data(symbol: str = 'GOOGL', start_date: str = '2020-01-01', end_date: str = '2024-01-01') -> pd.DataFrame:
     """
     Descarga y prepara datos de acciones usando yfinance.
     
@@ -301,7 +301,7 @@ def calculate_calibration_metrics(y_true: np.ndarray, y_pred: np.ndarray,
         'coverage_probabilities': coverage_probs
     }
 
-def evaluate_models(symbols: List[str] = ['AAPL', 'GOOGL', 'MSFT', 'AMZN'], 
+def evaluate_models(symbols: List[str] = ['GOOGL', 'MSFT', 'AMZN'], 
                    experiment_tracker: ExperimentTracker = None) -> Dict:
     results = {}
     
