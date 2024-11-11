@@ -1,4 +1,4 @@
-# Redes Neuronales Bayesianas El Algoritmo MultiSWAG
+# Redes Neuronales Bayesianas: El Algoritmo MultiSWAG
 
 **Autor**: Alejandro Henríquez Cazorla  
 **Tutor**: Miguel Palomino Tarjuelo  
@@ -7,7 +7,7 @@
 
 ## Descripción General
 
-Este repositorio contiene el código, análisis y documentación de mi Trabajo de Fin de Grado en Matemáticas, titulado **"Redes Neuronales Bayesianas y MultiSWAG"**. El proyecto se centra en la implementación de redes neuronales bayesianas utilizando el algoritmo **MultiSWAG** (Stochastic Weight Averaging-Gaussian) y su aplicación en la predicción de series temporales financieras. El objetivo es optimizar la generalización del modelo y mejorar la estimación de incertidumbre en escenarios de alta volatilidad financiera.
+Este repositorio contiene el código, análisis y documentación de mi Trabajo de Fin de Grado en Matemáticas, titulado **"Redes Neuronales Bayesianas: El Algoritmo MultiSWAG"**. El proyecto se centra en la implementación de redes neuronales bayesianas utilizando el algoritmo **MultiSWAG** (Stochastic Weight Averaging-Gaussian) y su aplicación en la predicción de series temporales financieras. El objetivo es optimizar la generalización del modelo y mejorar la estimación de incertidumbre en escenarios de alta volatilidad financiera.
 
 ## Contenido del Repositorio
 
