@@ -18,7 +18,7 @@ El directorio `src/` contiene:
 - Un script con el análisis y las predicciones de series financieras específicas (por ejemplo, AMZN, GOOGL y MSFT).
 
 ### 2. Documentación
-En el archivo `TFG_Matemáticas.pdf`, se incluye el informe completo, que abarca:
+En el archivo `Alejandro Henriquez Cazorla, Redes Neuronales Bayesianas. El Algoritmo MultiSWAG.pdf`, se incluye el informe completo, que abarca:
 - Fundamentos de inferencia bayesiana y redes neuronales.
 - Detalles del algoritmo SWAG y su extensión MultiSWAG.
 - Comparación teórica y práctica entre redes neuronales tradicionales y bayesianas.
