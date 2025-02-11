@@ -21,7 +21,7 @@ El directorio `src/` contiene:
 Los resultados incluyen análisis detallados de las predicciones realizadas con MultiSWAG, evaluando:
 - La precisión predictiva frente a redes neuronales tradicionales y bayesianas.
 - La eficacia en la captura de incertidumbre epistémica y aleatoria.
-- Comparación de resultados en distintos activos financieros, junto con visualizaciones y conclusiones sobre el rendimiento de los modelos.
+- Comparación de resultados en distintos activos financieros, junto con visualizaciones que permiten entender el rendimiento de los modelos.
 
 ## Objetivos del Trabajo
 
