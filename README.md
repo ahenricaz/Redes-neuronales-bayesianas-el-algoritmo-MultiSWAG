@@ -12,10 +12,9 @@ Este repositorio contiene el código de mi Trabajo de Fin de Grado en Matemátic
 ## Contenido del Repositorio
 
 ### Código
-El directorio `src/` contiene:
+El archivo `main.py` contiene:
 - Implementación del método MultiSWAG y redes neuronales bayesianas.
-- Comparación de resultados obtenidos con redes tradicionales y otras metodologías bayesianas.
-- Un script con el análisis y las predicciones de series financieras específicas (concretamente, SP500, AMZN, GOOGL y MSFT).
+- Un análisis y las predicciones de series financieras específicas (concretamente, SP500, AMZN, GOOGL y MSFT).
 
 ### Análisis y Resultados
 Los resultados incluyen análisis detallados de las predicciones realizadas con MultiSWAG, evaluando:
